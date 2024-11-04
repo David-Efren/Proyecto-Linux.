@@ -1,3 +1,4 @@
+```
 El sistema operativo básico estáhecho de los siguientes tres componentes:
   1.- Bootloader(Syslinux)  2.- Kernel  3.- User space (BusyBox)
 El boot carga al kernel, y el kernel carga a BusyBox.
@@ -11,4 +12,5 @@ Una distribuición gráfica es algo distinta a la anterior, añadiendo un compon
    1.- Bootloader(Syslinux)  2.- Kernel  3.- User space (BusyBox) 4.- Window manager (En este proyecto se usará microwindows.
 Este proyecto es técnicamente más complejo, así que, en este momento sigo trabajando en ello pero prontó subiré el proceso.
 
-Mi proyecto final creo que será tener un 
+Mi proyecto final creo que será tener un USB booteable ya sea del primer o segundo sistema operativo.
+```
